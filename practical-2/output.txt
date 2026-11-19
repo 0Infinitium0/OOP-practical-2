@@ -1,0 +1,33 @@
+----- BANK ACCOUNT DETAILS -----
+Account Holder: Satinderpal Singh Chaney
+Account Number: E26B00S2034
+Balance: Rs. 10000.00
+
+Depositing Rs. 2000
+Amount deposited successfully!
+
+Withdrawing Rs. 1500
+Amount withdrawn successfully!
+
+----- FINAL ACCOUNT DETAILS -----
+Account Holder: Satinderpal Singh Chaney
+Account Number: E26B00S2034
+Balance: Rs. 10500.00
+
+----- SECOND BANK ACCOUNT -----
+Account Holder: Priya
+Account Number: E26B00S2035
+Balance: Rs. 5000.00
+
+Depositing Rs. 1000
+Amount deposited successfully!
+
+Withdrawing Rs. 500
+Amount withdrawn successfully!
+
+----- FINAL ACCOUNT DETAILS -----
+Account Holder: Priya
+Account Number: E26B00S2035
+Balance: Rs. 5500.00
+
+Program executed successfully.
